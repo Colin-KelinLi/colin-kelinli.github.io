@@ -17,7 +17,7 @@ Education
 ======
 * 2020.11 - NOW:     Ph.D Student, Imperial College London.
 	Supervisor: [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas) and [Prof. Rafael A. Calvo](https://www.imperial.ac.uk/people/r.calvo)
-* 2016.09 - 2019.06: M.S. in Mechanical Engineering (Mechantronics and Robotics), Huazhong University of Science and Technology.
+* 2016.09 - 2019.06: M.S. in Mechanical Engineering (Mechatronics and Robotics), Huazhong University of Science and Technology.
 	Supervisor: [Prof. Han Ding](http://english.mse.hust.edu.cn/info/1073/1993.htm)
 * 2012.09 - 2016.06: B.S. in Mechanical Design, Manufacturing and Automation, Hunan University.
 
