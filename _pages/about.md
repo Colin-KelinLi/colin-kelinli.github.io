@@ -18,6 +18,7 @@ Please feel free to contact should you be interested in his research.
 
 News
 ===  
+* January 6, 2025, our work "Bio-Inspired Self Locking Soft Finger Design with Variable Length for Versatile Stable Grasps" is accepted by Robosoft 2025.
 * October 29, 2024, our work on the designing of bio-inspired soft fingers has been submitted to Robosoft 2025.
 * September 15, 2024, I submit our work “[Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR]([https://arxiv.org/abs/2301.09157](https://arxiv.org/abs/2409.11925))” to ICRA 2025.
 * May 13, 2024, I will start my part-time position at [Extend Robotics](https://www.extendrobotics.com/) as Associate AI Research Engineer.
